@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sri Rakesh V</h1>
+<h1 align="center">Hello 👋, I'm Sri Rakesh V</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srirakeshv&label=Profile%20views&color=0e75b6&style=flat" alt="srirakeshv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srirakeshv" alt="srirakeshv" /></a> </p>
 
-- 📫 How to reach me **srirakeshv@gmail.com**
+- 👨‍💻 Done a Website Project [https://rytsensetech.com/](https://rytsensetech.com/)
+
+- 📫 Connect me **srirakeshv@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1X3yCtIr7mwhlSRfiA5BmvkBmDLzNxmO1/view?usp=sharing](https://drive.google.com/file/d/1X3yCtIr7mwhlSRfiA5BmvkBmDLzNxmO1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
