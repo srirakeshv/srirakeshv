@@ -1,8 +1,4 @@
-<style>
-  /* Import the Truculenta font */
-  @import url('https://fonts.googleapis.com/css2?family=Truculenta&display=swap');
-</style>
-<h1 align="center" style="font-family: 'Truculenta', sans-serif;">Hello 👋, I'm Sri Rakesh V</h1>
+<h1 align="center" style="font-family: 'Roboto', sans-serif;">Hello 👋, I'm Sri Rakesh V</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srirakeshv&label=Profile%20views&color=0e75b6&style=flat" alt="srirakeshv" /> </p>
