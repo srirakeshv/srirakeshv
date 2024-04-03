@@ -22,14 +22,13 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://srirakeshv.com">Sri Rakesh</a></b>
+                <b><a target="_blank" href="https://srirakeshv.github.io/My-Portfolio/">Sri Rakesh</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
     「 I am a frontend developer from <b>India</b> 」
     <br>
@@ -38,7 +37,7 @@
 </p>
 
 <p align="center">
- <a href="https://srirakeshv.com" target="blank">
+ <a href="https://srirakeshv.github.io/My-Portfolio/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="srirakeshv" />
  </a>
  <a href="https://www.linkedin.com/in/sri-rakesh-v" target="_blank">
@@ -68,7 +67,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: srirakeshv@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/srirakeshv/srirakeshv/issues)
+ 💬 &emsp; Ask me about anything [here](https://srirakeshv.github.io/My-Portfolio/)
 
 </p>
 
