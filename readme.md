@@ -88,7 +88,7 @@
 ![Git](https://img.shields.io/badge/Netlify-05BDBA?style=for-the-badge&logo=netlify&logoColor=white&labelColor=black)
 
 <br/>
-# Daily Quotes
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Top Open Source -
