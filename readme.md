@@ -89,6 +89,8 @@
 
 <br/>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## Top Open Source -
 [![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=srirakeshv&repo=My-Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/srirakeshv/My-Portfolio)
 [![E Commerce](https://github-readme-stats.vercel.app/api/pin/?username=srirakeshv&repo=ecommerce&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/srirakeshv/ecommerce)
