@@ -30,7 +30,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a frontend developer from <b>India</b> 」
+    「 I am a fullstack developer from <b>India</b> 」
     <br>
     <br>
   </samp>
@@ -86,6 +86,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Git](https://img.shields.io/badge/Netlify-05BDBA?style=for-the-badge&logo=netlify&logoColor=white&labelColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 
 <br/>
 
